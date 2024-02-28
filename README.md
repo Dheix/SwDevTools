@@ -2,7 +2,7 @@
 ## DESCRIPTION
 In game developer tools unlocker for Stormworks.
 > [!WARNING]
->**Only supports Windows OS and Stormwork version 1.9.19+.**
+>**Only supports Windows OS and Stormwork version 1.9.0+.**
 
 Use with [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
 ## Installation 
