@@ -10,7 +10,7 @@ Use with [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader
 * Download latest Release of Ultimate-ASI-Loader, Ultimate-ASI-Loader_x64.zip
 * Extract Ultimate-ASI-Loader_x64.zip (dinput8.dll) into Stromworks Directory
 * In Stromworks Directory, create new folder "plugins" and extract SwDevTools.zip (SwDevTools.asi) into it
-* for a Linux-based OS, set launch options to `WINEDLLOVERRIDES="dinput8=n,b" %command% `
+* For a Linux-based OS, set launch options to `WINEDLLOVERRIDES="dinput8=n,b" %command% `
 
 > [!IMPORTANT]
 >### Installation with Opal Shader
